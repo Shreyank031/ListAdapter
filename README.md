@@ -76,7 +76,7 @@ The code demonstrates the implementation of a RecyclerView using a ListAdapter w
   compare two lists and efficiently update the UI.
 
 ## Demo Video
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/pQbDxWq0MNEEyFIy/0.jpg)](https://www.youtube.com/watch?v=pQbDxWq0MNEEyFIy "LIST ADAPTER")
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/0DR8OVJGNjM/0.jpg)](https://www.youtube.com/watch?v=0DR8OVJGNjM "LIST ADAPTER")
 
 ## Explanation: 
 
